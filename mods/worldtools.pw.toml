@@ -1,0 +1,13 @@
+name = "WorldTools"
+filename = "WorldTools-fabric-1.2.4+1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FlFKBOIX/versions/VO5UH9ff/WorldTools-fabric-1.2.4%2B1.20.4.jar"
+hash-format = "sha1"
+hash = "cbfffe8bae9139e32132f4cdc6cc34188ee90cf6"
+
+[update]
+[update.modrinth]
+mod-id = "FlFKBOIX"
+version = "VO5UH9ff"
