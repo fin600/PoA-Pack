@@ -1,0 +1,13 @@
+name = "PoA Pack"
+author = "fin600"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8da7bea70696ec129921c67d6cdbc044964602d712b6b3fcd411dcab009623d3"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.4"
